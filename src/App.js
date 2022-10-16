@@ -1,4 +1,4 @@
-import logo from "./logo.png";
+import logo from "./DictionaryLogo.png";
 import "./App.css";
 import SearchEngin from "./SearchEngin";
 
