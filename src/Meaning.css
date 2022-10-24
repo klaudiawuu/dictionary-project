@@ -1,0 +1,9 @@
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.example {
+    font-style: italic;
+    opacity: 0.6;
+}
