@@ -11,7 +11,7 @@ function App() {
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <main>
-          <SearchEngin defaultKeyword="color" />
+          <SearchEngin defaultKeyword="sunset" />
         </main>
         <footer className="App-footer text-center">
           <small>Coded by Klaudia Wawrzynczyk</small>
